@@ -3,6 +3,7 @@
  * @version: v1.1.0
  * https://github.com/dimbslmh/bootstrap-table/tree/master/src/extensions/multiple-sort/bootstrap-table-multiple-sort.js
  * Modification: ErwannNevou <https://github.com/ErwannNevou>
+ * Modification: Rahul Vats <https://github.com/rvats>
  */
 
 (function($) {
