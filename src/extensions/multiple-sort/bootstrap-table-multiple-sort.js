@@ -308,9 +308,6 @@
                     aa = parseFloat(aa);
                     bb = parseFloat(bb);
                 }
-                if (typeof aa !== 'string') {
-                    aa = aa.toString();
-                }
 
                 arr1.push(
                     order * cmp(aa, bb));
